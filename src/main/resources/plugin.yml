@@ -1,0 +1,4 @@
+name: AnimationsAPI
+version: @version@
+main: com.github.frcsty.animationsapi.AnimationsAPI
+api-version: 1.13
